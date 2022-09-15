@@ -17,7 +17,7 @@ import {
   AzurePushNotificationSchema,
   PushNotificationActionPerformed,
   PushNotificationToken,
-} from '@jindrichkuba/azure-push-notifications';
+} from 'azure-push-notifications';
 ```
 
 ## Usage 
