@@ -5,7 +5,7 @@ The Push Notifications API provides access to native push notifications.
 ## Install
 
 ```bash
-npm install @jindrichkuba/push-notifications
+npm i azure-push-notifications
 npx cap sync
 ```
 
